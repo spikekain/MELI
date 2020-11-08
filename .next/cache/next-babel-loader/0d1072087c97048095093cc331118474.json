@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["interface detailItem  extends item{\r\n    description:string;\r\n    sold_quantity:number;\r\n  }"]},"metadata":{},"sourceType":"script"}

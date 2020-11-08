@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["interface author {\r\n    \r\n    name: string;\r\n    lastname: string;\r\n  }"]},"metadata":{},"sourceType":"script"}

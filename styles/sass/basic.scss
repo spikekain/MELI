@@ -1,0 +1,17 @@
+@import 'colores';
+@import 'header';
+@import 'breadcrumb';
+@import 'itemCard';
+@import 'itemDetail';
+
+
+.back{
+    background-color: $white ;
+   
+}
+
+
+html, body
+{
+    background-color: #EEEEEE !important ;
+}
