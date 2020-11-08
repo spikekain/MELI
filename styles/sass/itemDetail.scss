@@ -1,0 +1,39 @@
+@import "colores";
+.backItemDetail {
+  background-color: $fullwhite;
+  padding-top: 32px;
+  padding-bottom: $mediumgap;
+}
+.imgDetail {
+  display: block;
+  margin: auto;
+}
+.description-area {
+  padding-top:  $mediumgap;
+  padding-left:  $mediumgap;
+}
+.description-label {
+  font-size: 28px;
+}
+.description-tag {
+  font-size: 16px;
+}
+.condition-tag-detail {
+  font-size: 14px;
+  margin-bottom: $smallgap;
+}
+.title-tag-detail {
+  font-size: 24px;
+  line-height: normal;
+  margin-bottom:  $mediumgap;
+}
+.price-tag-detail {
+  font-size: 46px;
+  padding-bottom:  $mediumgap;
+}
+
+.btn-comprar {
+    width: 100%;
+    margin-right:  $mediumgap;
+    background-color: $blue !important;
+}

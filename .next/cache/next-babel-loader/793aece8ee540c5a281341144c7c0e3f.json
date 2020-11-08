@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["interface categorias {\r\n    id: string;\r\n    name: string;\r\n    results: number;\r\n  }"]},"metadata":{},"sourceType":"script"}
